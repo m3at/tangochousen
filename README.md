@@ -1,4 +1,4 @@
-Set of evaluation tools for three very talented individuals, competing in an extremely high stake challenge for ~world~ word dommination.
+Set of evaluation tools for three very talented individuals, competing in an extremely high stake challenge for ~world~ word domination.
 
 TODO:
 * complete README
