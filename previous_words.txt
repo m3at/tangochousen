@@ -238,3 +238,33 @@ Compliment - ほめことば - 褒め言葉
 Compliment but you dont mean it - おせじ - お世辞
 Discrimination, racist - さべつ ー 差別
 Inspection - けんさ - 検査
+Without - ぬき - 抜き
+With - もって - 持って
+Pharmacy - やっきょく - 薬局
+Prescription - しょほうせん ー 処方箋
+Patient registration card - しんさつけん ー 診察券
+Sight, eyesight - しりょく - 視力
+Oxygen - さんそ - 酸素
+Public Holiday - しゅくじつ - 祝日
+To pass (time will pass) - たつ - 経つ
+Attractive - みりょくてき - 魅力的
+being very busy (wanting to borrow a cat's paw) - ねこのてもかりたい - 猫の手も借りたい
+to get angry (to have your stomach stand up) - はらだつ - 腹立つ
+the fly of your pants (society's window) - しゃかいのまど - 社会の窓
+moderate, proper, just right - ほどよい - 程よい
+relatively, comparatively - ひかくてき - 比較的
+abundant, plentiful, ample - ほうふ - 豊富
+alternative - だいたい - 代替
+animal - どうぶつ - 動物
+toxic, poisonous - どくせい - 毒性
+environment - かんきょう - 環境
+To be distracted - じゃまする - 邪魔する
+(repeat) louder - おおきこえ(でくりかえして) - 大き声(で繰り返して)
+Rural, country side - いなか - 田舎
+Crazy, nuts, madman - きちがい - 気違い
+Talent, ability - さいのう - 才能
+To ask, enquire - たずねる - 尋ねる
+Sunscreen - ひやけどめ - 日焼け止め
+To prevent, preserve, protect - ふせぐ - 防ぐ
+Result, outcome - けっか - 結果
+To accomplish, achieve, fulfill - はたす - 果たす
