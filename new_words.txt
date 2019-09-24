@@ -1,30 +1,30 @@
-carbohydrates - たんすいかぶつ - 炭水化物
-dietary fibers - しょくもつせんい - 食物繊維
-(simple and complex) sugars - とうしつ - 糖質
-(only simple) sugars - とうるい - 糖類
-fats, lipids - ししつ - 脂質
-{trans} [un] (saturated) fat - {トランス} [ふ] (ほうわ) しぼうさん - {トランス} [不] (飽和) 脂肪酸
-calories - ねつりょう - 熱量
-salt, sodium chloride - しょくえんそうとうりょう - 食塩相当量
-salt content - えんぶん - 塩分
-better be the head of a dog (sardine) than the tail of a lion (sea bream) - たいのおよりいわしのかしら - 鯛の尾より鰯の頭
-Humming - はなうた - 鼻歌
-Action, behaviour, conduct - こうどう - 行動（する）
-To pretend (to do something) - (なにかする)ふりをする - (何かする)振りをする
-Other (place, thing, person), the rest, outside - ほか - 他
-Center, middle, central - ちゅうおう - 中央
-Circumference, outskirts, around - しゅうへん - 周辺
-To turn back, to return, to go back - もどる - 戻る
-To do nothing else except (something), to just do (something) - (なにかして)ばかりいる - (何かして)ばかりいる
-Tend (to do something) - (なにかし)がち - (何かし)がち
-To give up - あきらめる - 諦める
-For, for the sake of - ために - ために (為に)
-Remove - とりのぞく - 取り除く
-Exchange, switching - こうかん(する) - 交換(する)
-Stock (equity) - かぶ - 株
-Sophisticated - せんれん(する) - 洗練(する)
-Spaceship - うちゅうせん - 宇宙船
-Difficult to, hard to - にくい - 難い
-Knowledge, information - ちしき - 知識
-Dirty joke - しもねた - 下ネタ
-Tool(s) - どうぐ- 道具
+Accent, pronunciation - はつおん(する) - 発音(する)
+To disturb, throw out of order - みだす - 乱す
+Inefficient - ひこうりつ - 非効率
+(To be) mean - いじわる(する) - 意地悪(する)
+Factory - こうじょう - 工場
+Zeal, enthusiasm - ねっしん - 熱心
+Temptation, lure, seduction - ゆうわく - 誘惑(する)
+Resistance - ていこう - 抵抗(する)
+Fate, lot - うんめい - 運命
+Magic - まほう - 魔法
+to talk, to chat - しゃべる - 喋る
+colleague, coworker - どうりょう - 同僚
+standard, basis, criterion, norm - きじゅん - 基準
+outdoor bath - ろてんぶろ - 露天風呂
+equality, impartiality, evenness - びょうどう - 平等
+not less than, and more, and upwards, beyond, further - いじょう - 以上
+not exceeding; and downward, below, under - いか - 以下
+to store, to save up - たくわえる - 蓄える
+germ, bacteria, mold, vermin (used figuratively) - ばいきん - ばい菌
+prickly, stinging (suru) - ちくちく(する) - ちくちく(する)
+(I feel good) thanks to / because of (you) - (あなたの)おかげ(で、きもちいい) - (あなたの)おかげ(で、気持ちいい)
+(I feel bad) thanks to / because of (you) - (あなたの)せい(で、きもちわるい) - (あなたの)せい(で、気持ち悪い)
+I get the feeling that - ~ような気がする - 〜ようなきがする
+What should I do? - どうしたらいいですか?
+Supposed to (do something) - (何かする)はずだった - (なにかする)はずだった
+(To) guess - すいそく(する) - 推測(する)
+Absolute, absolutely - ぜったい - 絶対
+Getting started - にゅうもん(する) - 入門(する)
+Continuous - けいぞくてき - 継続的
+Decision, settlement - かくてい(する) - 確定(する)
