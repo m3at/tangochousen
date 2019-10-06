@@ -117,3 +117,244 @@ This chair is unstable -
 She sent a [line] sticker -
 かのじょはスタンプをそうしんしました -
 彼女はスタンプを送信しました
+\n
+\n
+If I walk, I get hungry
+あるいたら, おなかがすく
+歩いたら, お腹がすく
+
+I heard that Yamada has a fever, so it looks like he'll be taking off work today
+やまださんはねつがあるとかで、きょうはやすむそうです
+山田さんは熱があるとかで、今日は休むそうです。
+
+If you go, then I go as well
+あなた が いけば、 わたし も いく よ
+貴方が行けば、私も行くよ
+
+By the way, perhaps he's single
+ちなみに に おそらく かれ は どくしん だ と おもいます
+因みににおそらく彼は独身だと思います
+
+I love Japanese food, like sushi, ramen (among other things)
+お すし とか らーめん とか にっぽん りょうり が すき です
+お寿司とかラーメンとか日本料理が好きです
+
+You should work out every day, even just 5 to 10 minutes is OK 
+まいにち、５ふん とか、１０ ぷん とか でも いい ので、うんどう を した ほう が いい です よ。
+毎日、5分とか、10分とかでもいいので、運動をしたほうがいいですよ
+
+Prices will likely continue to rise
+ぶっか は あがりつづける だろう
+物価は上がり続けるだろう
+
+I want to keep supporting him
+これから も かれ を おうえんしつづけたい
+これからも彼を応援し続けたい
+
+Fish have a bunch of bones and are difficult to eat
+さかなはほねがおおくてたべづらい
+魚は骨が多くて食べづらい
+
+I want to talk together just the two of us
+ふたり だけ で すこし はなし が したい。
+二人だけで少し話がしたい
+
+I get worked up just thinking about her
+かのじょ の こと を おもう だけ で どき どき する。
+彼女のことを思うだけでドキドキする
+
+He's riding a bicycle with only one leg
+かれ は かた あし だけ で じてんしゃ を のっている。
+彼は片足だけで自転車に乗っている
+
+I'm sensitive to the cold, so I don't really like winter
+わたし は さむがり なので、 ふゆ は あまり すき じゃない。
+私は寒がりなので、冬はあまり好きじゃない
+
+There's no way you're going to be able to eat all of that
+そんな おおきな りょう を ぜんぶ たべられる はず が ない。
+そんな大きな量を全部食べられるはずがない
+
+I need to study more
+わたし は もっと べんきょう する ひつよう が ある。
+私はもっと勉強する必要がある
+
+I wonder if that's true (feminine)
+ほんとうかしら (じょせいてき)
+本当かしら (女性的)
+
+Have we met before? (feminine) 
+いぜんおあいしませんでしたかしら？ (じょせいてき)
+以前お会いしませんでしたかしら (女性的)
+
+Do you mind if I sit here? (masculine)
+ここにすわってもいいかな？(だんせいてき)
+ここに座ってもいいかな？(男性的)
+
+Sometimes I cook Vietnamese food
+ときどきベトナムりょうりをつくることがあります。
+時々ベトナム料理を作ることがあります
+
+That child suddenly started crying
+そのこはきゅうになきだした。
+その子は急に泣き出した
+
+The dictionary is up to date. 
+そのじしょはさいしんのものです。
+その辞書は最新のものです。
+
+The light turned red. 
+しんごうはあかにかわった。
+信号は赤に変わった。
+
+Don't worry, as I'm with you.
+ぼくがついているからしんぱいするな。
+僕がついているから心配するな。
+
+We commended him for his good work.
+りっぱなしごとをしたとかれをほめた。
+立派な仕事をしたと彼を誉めた。
+
+Don't interrupt our conversation.
+ぼくたちのはなしにわりこむなよ。
+僕たちの話に割り込むなよ。
+
+Because of the increase in earth temperature, the number of fish in the sea may decrease. 
+ちきゅうのきおんがあがってうみでとれるさかながへるかもしれない。
+地球の気温が上がって海でとれる魚が減るかもしれない。
+
+All of us went besides him.
+かれのほかにわたしたちみながおこなった。
+彼のほかに私たち皆が行った。
+
+This autumn I am, unusually, watching many anime. 
+このあきは、めずらしくアニメをたくさんみている。
+この秋は、珍しくアニメをたくさん見ている。
+
+We all work together to improve our skills.
+ぜんいん で ぎじゅつ の こうじょう に つとめて います。
+全員で技術の向上に努めています。
+
+She's in the movie.
+かのじょ は その えいが に しゅつえん して いる よ。
+彼女はその映画に出演しているよ。
+
+This dish is high quality.
+この うつわ は じょうとう ね。
+この器は上等ね。
+
+Please define beauty.
+うつくしさ を ていぎ して ください。
+美しさを定義してください。
+
+He and I are cousins.
+かれ と わたし は いとこ どうし です。
+彼と私はいとこ同士です。
+
+I work eight hours a day.
+わたし の いちにち の きんむ じかん は 8 じかん です。
+私の一日の勤務時間は8時間です。
+
+This is a women-only carriage.
+これ は じょせい せんよう の しゃりょう です。
+これは女性専用の車両です。
+
+What is the market rent around here?
+この あたり の やちん の そうば は いくら です か。
+この辺りの家賃の相場はいくらですか。
+
+Let's get to the root of the problem.
+もんだい の こんぽん を みなおしましょう。
+問題の根本を見直しましょう。
+
+Do you have an admission ticket?
+にゅうじょう けん を おもち です か。
+入場券をお持ちですか。
+
+She wants anything others have.
+あの こ は ひと の もの を なん でも ほしがる。
+あの子は人の物を何でも欲しがる。
+
+Please turn right when the street ends.
+つきあたったら みぎ に まがって ください。
+突き当たったら右に曲がってください。
+
+The performance of electric cars has improved
+でんきじどうしゃのせいのうはよくなっている
+電気自動車の性能はよくなっている
+
+Yesterday my friend came and hung out.
+きのう、ともだちがあそびにきた。
+昨日、友達が遊びにきた。
+
+I'll have the hamburger and salad (lit: I'll do toward the hamburger and salad)
+わたしは、はんばーがーとさらだにします。
+私は、ハンバーガーとサラダにします。
+
+Because I practiced for one year, I became able to play the piano
+いちねんかんれんしゅうしたから、ぴあのがひけるようになった。
+1年間練習したから、ピアノが弾けるようになった
+
+If I had money, it would be good huh?
+おかねがあればいいね
+お金があればいいね
+
+If it's not fun, I'll also not go.
+たのしくなければ、わたしもいかない。
+楽しくなければ、私も行かない。
+
+I heard from the teacher that there's no class today.
+せんせいからきょうはじゅぎょうがないときいたんだけど。
+先生から今日は授業がないと聞いたんだけど。
+
+John said that he's going overseas next year.
+じょんはらいねん、かいがいにいくんだって。
+ジョンは来年、海外に行くんだって。
+
+I already told you I don't have money.
+もうおかねがないって。
+もうお金が無いって。
+
+The most interesting thing was that the main character was the criminal.
+しゅじんこうがはんにんだったというのがーいちばんおもしろかった。
+主人公が犯人だったというのが一番面白かった。
+
+Was it a lie that you were single?
+どくしんだというのは、うそだったの？
+独身だというのは、うそだったの?
+
+It's because you always come at times like these that I'm troubled.
+あなたは、いつもこういうときにくるんだから、こまるんだよ。
+あなたは、いつもこういう時に来るんだから、困るんだよ。
+
+(Anybody would) dislike doing work together with that type of person, huh?
+そういうひとといっしょにしごとをするのは、いやだね。
+そういう人と一緒に仕事をするのは、嫌だね。
+
+I think you can become happy if you could marry that type of person.
+ああいうひととけっこんできたら、しあわせになれるとおもいます。
+ああいう人と結婚できたら、幸せになれると思います。
+
+What do you mean, "you're not going to college?"
+だいがくにいかないって、どういういみなの？
+大学に行かないって、どういう意味なの?
+
+I like alcohol or rather, can't live on without it.
+おさけはすきというか、ないといきていけない。
+お酒は好きというか、ないと生きていけない。
+
+I tried eating okonomiyaki for the first time and it was very tasty!
+おこのみやきをはじめてたべてみたけど、とてもおいしかった！
+お好み焼きを初めて食べてみたけど、とても美味しかった！
+
+I'm going to check out the new department store.
+あたらしいでぱーとにいってみる。
+新しいデパートに行ってみる。
+
+Everyday, she attempts to avoid study.
+まいにち、べんきょうをさけるようとする。
+毎日、勉強を避けるようとする。
+
+He is attempting to force his way into the room.
+むりやりにへやにはいろうとしている。
+無理矢理に部屋に入ろうとしている。
